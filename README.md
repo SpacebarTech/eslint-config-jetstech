@@ -28,8 +28,7 @@ npm i -D @jetstech/eslint-config-jetstech eslint
 
 ### NodeJS
 
-Add `"extends": "@jetstech"` to your `.eslintrc`.
-
+Add `"extends": "@jetstech/eslint-config-jetstech"` to your `.eslintrc`.
 
 ### VueJS
 

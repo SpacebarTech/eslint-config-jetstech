@@ -1,6 +1,6 @@
 {
   "name": "@jetstech/eslint-config-jetstech",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This package uses ESLint to enforce JETS Tech's code style and provides a shared base configuration for our JavaScript projects.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
     "eslint": "^5.16.0"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^17.1.0"
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
