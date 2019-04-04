@@ -1,7 +1,6 @@
 module.exports = {
-	'extends' : 'airbnb',
+	'extends' : 'airbnb-base',
 	'rules'   : {
-		'react/*'               : false,
 		'no-use-before-define'  : 0,
 		'no-prototype-builtins' : 'off',
 		'func-names'            : 0,
