@@ -1,0 +1,25 @@
+{
+  "name": "@jetstech/eslint-config-jetstech",
+  "version": "0.0.2",
+  "description": "This package uses ESLint to enforce JETS Tech's code style and provides a shared base configuration for our JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpacebarTech/eslint-config-jetstech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpacebarTech/eslint-config-jetstech/issues"
+  },
+  "homepage": "https://github.com/SpacebarTech/eslint-config-jetstech#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0"
+  }
+}
